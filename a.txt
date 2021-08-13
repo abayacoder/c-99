@@ -1,0 +1,3 @@
+a for applications
+ with open(filea,'r') as a :
+    data_a = a.read()
